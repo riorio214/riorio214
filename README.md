@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
   <img width="400px" src="https://github.com/riorio214/riorio214/blob/main/mygit.gif" />
   <img src="https://github-readme-stats.vercel.app/api?username=riorio214&show_icons=true&theme=radical" />
