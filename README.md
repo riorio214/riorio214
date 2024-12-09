@@ -1,6 +1,7 @@
 ## Hi there 👋
 <div align="center">
   <img width="800px" src="https://github.com/riorio214/riorio214/blob/main/mygit.gif" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={riorio214}&show_icons=true&theme=radical)
 </div>
 <!--
 **riorio214/riorio214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
