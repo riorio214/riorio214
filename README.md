@@ -43,6 +43,10 @@
   <a href="https://blog.naver.com/kingpotato0515">
     <img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" style="margin-right: 10px;" />
   </a>
+  
+  <a href="https://bsky.app/profile/your_username">
+    <img src="https://img.shields.io/badge/bluesky-0055FF?style=for-the-badge&logo=bluesky&logoColor=white" />
+  </a>
 </div>
 
 
