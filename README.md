@@ -39,13 +39,14 @@
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 <h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://blog.naver.com/kingpotato0515" style="display: inline-block;">
+<div align="center" style="font-size: 0;">
+  <a href="https://blog.naver.com/kingpotato0515">
     <img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" style="margin-right: 10px;" />
   </a>
-  <a href="https://bsky.app/profile/your_username" style="display: inline-block;">
+  <a href="https://bsky.app/profile/your_username">
     <img src="https://img.shields.io/badge/bluesky-0055FF?style=for-the-badge&logo=bluesky&logoColor=white" />
   </a>
 </div>
+
 
 
