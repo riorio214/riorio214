@@ -40,12 +40,13 @@
 </div>
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center" style="font-size: 0;">
-  <a href="https://blog.naver.com/kingpotato0515">
+  <a href="https://blog.naver.com/kingpotato0515" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" style="margin-right: 10px;" />
-  </a><a href="https://bsky.app/profile/your_username">
+  </a><a href="https://bsky.app/profile/your_username" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/bluesky-0055FF?style=for-the-badge&logo=bluesky&logoColor=white" />
   </a>
 </div>
+
 
 
 
