@@ -40,7 +40,7 @@
 </div>
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="" style="display: inline-block;">
+  <a href="rio214@naver.com" style="display: inline-block;">
     <img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" style="margin-right: 10px;" />
   </a>
   <a href="https://bsky.app/profile/your_username" style="display: inline-block;">
