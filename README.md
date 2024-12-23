@@ -38,3 +38,12 @@
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
+<h3 align="center">📫 Contact 📫</h3>
+  <a href="">
+    <img
+      src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+  </a>
+  <a href="https://bsky.app/profile/your_username">
+  <img
+    src="https://img.shields.io/badge/bluesky-0055FF?style=for-the-badge&logo=bluesky&logoColor=white" />
+  </a>
